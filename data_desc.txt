@@ -1,0 +1,45 @@
+Có 3 loại hình :
+- Căn hộ/ chung cư
+- Nhà ở
+- Đất (thổ cư)
+
+Căn hộ/ Chung cư : 3-4 tháng trc (290 page – 5798 căn hộ -116 page online)
+    Dia chi : <span class="bwq0cbs flex-1" style="color:#222;cursor:inherit">Đường Lê Trọng Tấn, Phường Dương Nội, Hà Đông, Hà Nội, Phường Dương Nội, Quận Hà Đông, Hà Nội</span>
+    Gia tong : <b class="pyhk1dv">16,2 tỷ</b>
+    Gia/m2 : <strong itemprop="price_m2" class="AdParam_adParamValuePty__3uTmt">289,29 triệu/m²</strong>
+    So phong ngu : <strong itemprop="rooms" class="AdParam_adParamValuePty__3uTmt">5 phòng</strong>
+    So phong ve sinh : <strong itemprop="toilets" class="AdParam_adParamValuePty__3uTmt">5 phòng</strong>
+    Giay to phap ly : <strong itemprop="property_legal_document" class="AdParam_adParamValuePty__3uTmt">Đã có sổ</strong>
+    Dien tich : <strong itemprop="size" class="AdParam_adParamValuePty__3uTmt">56 m²</strong>
+    Loai hinh can ho : <strong itemprop="apartment_type" class="AdParam_adParamValuePty__3uTmt">Căn hộ dịch vụ, mini</strong>
+    Tinh trang noi that : <strong itemprop="furnishing_sell" class="AdParam_adParamValuePty__3uTmt">Nội thất cao cấp</strong>
+    Huong cua chinh : <strong itemprop="direction" class="AdParam_adParamValuePty__3uTmt">Tây Nam</strong>
+    Huong ban cong : <strong itemprop="balconydirection" class="AdParam_adParamValuePty__3uTmt">Đông Nam</strong>
+
+Nhà ở : 2 tuần trc (500 page – 27988 nhà – full online)
+    Dia chi : <span class="bwq0cbs flex-1" style="color:#222;cursor:inherit">Đường Lê Trọng Tấn, Phường Dương Nội, Hà Đông, Hà Nội, Phường Dương Nội, Quận Hà Đông, Hà Nội</span>
+    Gia tong : <b class="pyhk1dv">16,2 tỷ</b>
+    Gia/m2 : <strong itemprop="price_m2" class="AdParam_adParamValuePty__3uTmt">289,29 triệu/m²</strong>
+    So phong ngu : <strong itemprop="rooms" class="AdParam_adParamValuePty__3uTmt">5 phòng</strong>
+    So phong ve sinh : <strong itemprop="toilets" class="AdParam_adParamValuePty__3uTmt">5 phòng</strong>
+    Tong so tang : <strong itemprop="floors" class="AdParam_adParamValuePty__3uTmt">6</strong>
+    Giay to phap ly : <strong itemprop="property_legal_document" class="AdParam_adParamValuePty__3uTmt">Đã có sổ</strong>
+    Loai hinh nha o : <strong itemprop="house_type" class="AdParam_adParamValuePty__3uTmt">Nhà ngõ, hẻm</strong>
+    Chieu ngang : <strong itemprop="width" class="AdParam_adParamValuePty__3uTmt">4 m</strong>
+    Chieu dai : <strong itemprop="length" class="AdParam_adParamValuePty__3uTmt">14 m</strong>
+    Dien tich su dung : <strong itemprop="living_size" class="AdParam_adParamValuePty__3uTmt">336 m²</strong>
+    Dien tich dat : <strong itemprop="size" class="AdParam_adParamValuePty__3uTmt">56 m²</strong>
+    Huong cua chinh : <strong itemprop="direction" class="AdParam_adParamValuePty__3uTmt">Tây Nam</strong>
+    Tinh trang noi that : <strong itemprop="furnishing_sell" class="AdParam_adParamValuePty__3uTmt">Nội thất cao cấp</strong>
+
+Đất thổ cư : 4  tháng trước (212 page -85 page online) 
+    Dia chi : <span class="bwq0cbs flex-1" style="color:#222;cursor:inherit">Đường Lê Trọng Tấn, Phường Dương Nội, Hà Đông, Hà Nội, Phường Dương Nội, Quận Hà Đông, Hà Nội</span>
+    Gia tong : <b class="pyhk1dv">16,2 tỷ</b>
+    Gia/m2 : <strong itemprop="price_m2" class="AdParam_adParamValuePty__3uTmt">289,29 triệu/m²</strong>
+    Giay to phap ly : <strong itemprop="property_legal_document" class="AdParam_adParamValuePty__3uTmt">Đã có sổ</strong>
+    Loai hinh dat : <strong itemprop="land_type" class="AdParam_adParamValuePty__3uTmt">Đất thổ cư</strong>
+    Chieu ngang : <strong itemprop="width" class="AdParam_adParamValuePty__3uTmt">4 m</strong>
+    Chieu dai : <strong itemprop="length" class="AdParam_adParamValuePty__3uTmt">14 m</strong>
+    Dien tich dat : <strong itemprop="size" class="AdParam_adParamValuePty__3uTmt">56 m²</strong>
+    Huong cua chinh : <strong itemprop="direction" class="AdParam_adParamValuePty__3uTmt">Tây Nam</strong>
+
