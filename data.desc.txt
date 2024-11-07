@@ -1,0 +1,13 @@
+A. Căn hộ/ Chung cư :
+B. Nhà ở :
+C. Đất thổ cư :
+    1. Link
+    2. Giá tổng : tỷ đồng : float
+    3. Giá/m2 : triệu/m2 : float
+    4. Loại hình đất : 5 loại : object
+    5. Chiều ngang : met : float
+    6. Chiều dài : met : float
+    7. Diện tích đất : m2 : float
+    7. Hướng cửa chính : 8 hướng : object
+    8. Xã/Phường : Có 9 giá trị là "Trống" : object
+    9. Quận/huyện : Có 9 giá trị là "Trống" : object
