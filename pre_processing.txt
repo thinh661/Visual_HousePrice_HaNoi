@@ -1,33 +1,29 @@
 Nhà ở :
-1. Bỏ tỷ trong cột giá tổng, đổi sang float.
-2. Bỏ triệu/m2 trong cột giá/m2
-3. Bỏ phòng trong số phòng gủ
-4. Bỏ phòng trong số phòng vệ sinh và fill phòng vệ sinh = số phòng ngủ
-5. Fill tổng số tầng = số phòng ngủ + 1
-6. Giấy tờ pháp lý chỉ có 1 giá trị bị null -> fill bằng đã có sổ (đã check nhà này)
-7. Loaij hình nhà ở  : Đổi nhà ngõ hẻm -> ngõ, hẻm / mặt phố, tiền / Liền kề / Biệt thự
-8. Bỏ m2 trong diện tích đất
-9. Fill tình trạng nội hất theo giá/m2
-10. Xử lí Địa chỉ :(khá phức tạp do có địa chỉ bắt đầu từ tên phố, có địa chỉ lại bắt đầu từ tên phường, có địa chị lại cụ thể hơn)
-	- Tách tên  đường (địa chỉ chi tiết) + Tên xã phường, Quận chung
-	- Tách ra tên đường + Xã Phường + Quận
-11. Chiều ngang , chiều dài : bỏ m -> xem xem là giá các căn nhà chiều ngang hay chiều dài tác động mạnh hơn đến giá cả (có thể nhà trong ngõ chiều dài sẽ được ưu tiên hơn)
+1. Bỏ tỷ trong cột giá tổng, đổi sang float. - done
+2. Bỏ triệu/m2 trong cột giá/m2 - done
+3. Bỏ phòng trong số phòng gủ - done
+4. Bỏ phòng trong số phòng vệ sinh và fill phòng vệ sinh = số phòng ngủ - done
+5. Fill tổng số tầng = số phòng ngủ + 1 - done
+6. Giấy tờ pháp lý chỉ có 1 giá trị bị null -> fill bằng đã có sổ (đã check nhà này) - done
+7. Loaij hình nhà ở  : -done
+8. Bỏ m2 trong diện tích đất - done
+9. Fill tình trạng nội thất theo giá/m2 - done
+10. Xử lí Địa chỉ :Tách xã/phường và quận/huyện - done
+11. Chiều ngang , chiều dài : bỏ m -> xem xem là giá các căn nhà chiều ngang hay chiều dài tác động mạnh hơn đến giá cả (có thể nhà trong ngõ chiều dài sẽ được ưu tiên hơn) - done
 12. Hướng cửa chính do thiếu nhiều nên cũng k fill , sẽ chỉ phân tích các dòng dữ liệu có hướng cửa chính -> xem xem hướng cửa chính nào sẽ có giá cao hơn
 
 
 Căn hộ/ Chung cư :
 1. Bỏ tỷ trong cột giá tổng,đổi sang float. - done
 2. Bỏ triệu/m2 trong cột giá/m2 - done
-3. Bỏ phòng trong số phòng gủ - done
+3. Bỏ phòng trong số phòng ngủ - done
 4. Bỏ phòng trong số phòng vệ sinh và fill phòng vệ sinh = số phòng ngủ - done
 5. GIấy tờ pháp lí : Có 51 dòng dữ liệu có tên là 1  -> fill bằng sổ hồng riêng - done
 6. Bỏ m2 trong diện tích - done
 7. Loại hình căn hộ : tập thể,cư xá -> tập thể , Căn hộ dịch vụ, mini -> chung cư mini - done
 8. Fill tình trạng nội hất theo giá/m2 - done
 9. Hướng cửa chính, hướng ban công do thiếu nhiều nên cũng k fill , sẽ chỉ phân tích các dòng dữ liệu k null -> xem xem hướng cửa chính, hướng ban công nào sẽ có giá cao hơn
-10. Xử lí Địa chỉ : (khá phức tạp do có địa chỉ bắt đầu từ tên phố, có địa chỉ lại bắt đầu từ tên phường, có địa chị lại cụ thể hơn)
-	- Tách tên  đường (địa chỉ chi tiết) + Tên xã phường, Quận chung
-	- Tách ra tên đường + Xã Phường + Quận
+10. Xử lí Địa chỉ : Tách xã/phường và quận/huyện - done
 
 Đất thổ cư:
 1. Bỏ tỷ trong cột giá tổng. - done
@@ -36,6 +32,4 @@ Căn hộ/ Chung cư :
 4. Chiều ngang , chiều dài : bỏ m -> xem xem là giá các lô đất chiều ngang hay chiều dài tác động mạnh hơn đến giá cả - done
 5. Bỏ m2 trong diện tích đất - done
 6. Hướng cửa chính do thiếu nhiều nên cũng k fill , sẽ chỉ phân tích các dòng dữ liệu có hướng cửa chính -> xem xem hướng cửa chính nào sẽ có giá cao hơn
-7. Xử lí Địa chỉ : (khá phức tạp do có địa chỉ bắt đầu từ tên phố, có địa chỉ lại bắt đầu từ tên phường, có địa chị lại cụ thể hơn)
-	- Tách tên  đường (địa chỉ chi tiết) + Tên xã phường, Quận chung
-	- Tách ra tên đường + Xã Phường + Quận
+7. Xử lí Địa chỉ : Tách xã/phường và quận/huyện - done
