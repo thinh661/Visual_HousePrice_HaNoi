@@ -1,0 +1,35 @@
+Nhận xét từ các biểu đồ : 
+
+A. Nhà ở : (các biểu đồ dưới đây giống với của a nhé)
+
+- Biểu đồ phân bố của giá/m2 - Giá nhà tập trung chủ yếu từ 100-250 triệu/m2 + trung bình 1 ngôi nhà có diện tích 50 m2 -> 5-1205 tỷ để có thể mua nhà ở HN
+
+- Biểu đồ phụ thuộc của giá/m2 vào số phòng ngủ - Với mức giá phổ thông 1-300 triệu/m2 thì người ta quan tâm đến nhà 3-6 phòng ngủ nhiều hơn 
+
+- Biểu đồ Giá trung bình/m2 trên số phòng ngủ - đa số các điểm dữ liệu về phòng ngủ đều nằm dưới đường trendline cho thấy rằng giá/m2 của số phòng ngủ vẫn thấp hơn so với giá kỳ vọng của nó . Nhưng các điểm dữ lieu lại nằm rất gần với đường trendline -> cho thấy rằng số phòng ngủ có mức độ tương quan rất lớn với giá nhà.
+ 
+- Biểu đồ Phụ thuộc của giá/m2 vào diện tích -> ?
+
+- Biểu đồ Phụ thuộc của giá/m2 vào quận/huyện - Sự chênh lệch giá giữa các quận huyện là khá cao -> cho thấy vị trí địa lý có mức độ tương quan lớn   đối với giá nhà.
+ 
+- Biểu đồ phụ thuộc của giá/m2 vào loại hình nhà ở - Đối với loại hình nhà ở cũng vậy, sự chênh lệch giá của các loại hình nhà ở khá cao khiến -> cho thấy loại hình nhà ở có mức độ tương quan lớn   đối với giá nhà.
+
+- Biểu đồ phụ thuộc của giá/m2 vào Giấy tờ pháp lý - giấy tờ pháp lý có ảnh hưởng nhiều đến giá nhà k ? (sự chênh lệch giá có cao k?)
+Đối với Giấy tờ pháp lý cũng vậy, sự chênh lệch giá cao -> cho thấy giấy tờ pháp lý có mức độ tương quan lớn   đối với giá nhà.
+
+------------------------------------------------ (biểu đồ mới thêm vào)
+
+- Biểu đồ thể hiện giấy tờ pháp lý theo từng quận huyện ? -> xem xem nếu quận nào có nhiều nhà k có sổ hoặc giấy tờ viết tay nhiều thì nên cẩn than khi đầu tư (khu vực đó có vấn đề) : khu vực quận hoàng mai có 3 chỉ số về giấy tờ không rõ ràng khá cao -> Điều này cho thấy rằng khu vực quận hoàng mai là 1 khu vực nguy hiểm và phải xem xét khi đầu tư . Đặc biệt trong bối cảnh luật đất dai mới sẽ khiến cho các thủ tục hợp pháp hóa bất động sản trở nên đắt đỏ và khó khan -> nên xem xét kĩ trc khi đầu tư cũng như mua để ở
+
+- Biểu đồ trung bình giá/m2 theo hướng cửa chính -> hướng cửa chính lieu có ảnh hưởng nhiều  đến giá nhà không? : nhìn vào biểu đồ ta có thể thấy hướng cửa chính là Bắc và Tây có mức giá bán nhỉnh hơn so với các hướng khác. Nhưng nhìn chung giá nhà không ảnh hưởng quá nhiều đến giá nhà -> hướng cửa chính sẽ không có mức độ tương quan quá cao so với giá nhà.
+
+- Biểu đồ trung bình giá/m2 theo chiều dài và chiều ngang   đối với nhà mặt phố  -> những nhà mặt phố có chiều ngang lớn sẽ có giá cao hơn 
+
+- Biểu đồ trung bình giá/m2 theo chiều dài và chiều ngang đối với nhà mặt phố và nhà trong ngõ
+	- những nhà mặt phố có chiều ngang lớn sẽ có giá cao hơn 
+	- Liệu rằng đối với nhà trong ngõ thì người ta có quan trọng nhiều rộng như nhà mặt phố không hay là người ta sẽ quan tâm   đến chiều dài hơn là chiều rộng ? (Giá của chiều dài hay chiều rộng đối với nhà trong ngõ   sẽ cao hơn) : kết quả cho thấy rằng nhà trong ngõ thì người ta sẽ không quá quan tâm đến chiều ngang mà sẽ quan tâm đến chiều dài của ngôi nhà 
+
+
+
+B. Chung cư :
+
